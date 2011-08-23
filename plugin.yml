@@ -1,0 +1,5 @@
+name: properTime
+main: nl.xupwup.properTime.properTime
+version: 1.9.0
+
+softdepend: [MultiVerse]
