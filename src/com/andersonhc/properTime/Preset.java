@@ -1,4 +1,4 @@
-package nl.xupwup.properTime;
+package com.andersonhc.properTime;
 
 public enum Preset {
 

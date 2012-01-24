@@ -1,5 +1,4 @@
-name: properTime
-main: nl.xupwup.properTime.properTime
-version: 1.9.0
-
+name: ProperTime
+main: com.andersonhc.properTime.ProperTime
+version: 2.0
 softdepend: [MultiVerse]
