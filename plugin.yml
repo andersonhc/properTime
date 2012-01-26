@@ -1,4 +1,4 @@
 name: ProperTime
 main: com.andersonhc.properTime.ProperTime
-version: 2.0
-softdepend: [MultiVerse]
+version: 2.1
+softdepend: [MultiVerse, multiverse-core]

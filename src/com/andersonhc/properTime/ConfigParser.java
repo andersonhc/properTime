@@ -75,7 +75,7 @@ public class ConfigParser {
 
 		for (String curWorld : worlds) {
 
-			System.out.println("now: " + curWorld);
+			//System.out.println("now: " + curWorld);
 
 			Conf c = null;
 			for (int i = 0; i < configs.length; i++) {
@@ -90,7 +90,7 @@ public class ConfigParser {
 				continue;
 			}
 
-			System.out.println("propertime." + curWorld + ".followworld");
+			//System.out.println("propertime." + curWorld + ".followworld");
 			if (conf.contains("propertime." + curWorld + ".preset")) {
 				String preset = conf.getString("propertime." + curWorld	+ ".preset");
 				boolean found = false;
